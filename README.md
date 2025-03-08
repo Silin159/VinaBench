@@ -11,9 +11,9 @@
 
 <sup>1</sup>EPFL &nbsp; <sup>2</sup>Sony &nbsp; <sup>3</sup>CMU
 
-<!---
-[![Project Page](https://img.shields.io/badge/VLM2--Bench-Website-2D89EF?style=flat-square&logo=internet-explorer)]()
+[![Project Page](https://img.shields.io/badge/VLM2--Bench-Website-2D89EF?style=flat-square&logo=internet-explorer)](https://silin159.github.io/Vina-Bench/)
 [![ArXiv](https://img.shields.io/badge/arXiv-2502.12084-B31B1B.svg?logo=arxiv&logoColor=white)]()
+<!---
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue)]()
 -->
 

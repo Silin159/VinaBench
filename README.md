@@ -29,7 +29,8 @@
 <img src="figs/overview.png" width="100%" alt="overview"/>
 </div>
 
-We augment existing visual-textual narrative pairs with discourse and commonsense constraints, to promote the learning of consistent and faithful visual narrative generation and its evaluation. The <b>commonsense constraints</b> consist of links that ground the visual entities (extracted from image captions) to their associated textual narrative entities, as labeled by the phrases paired with the same color. The <b>discourse constraints</b> include scene-specific narrative features that trace the dynamics of basic narrative elements, i.e., characters, time and location, and global narrative features that describe static character attributes and image appearance style.
+We augment existing visual-textual narrative pairs with discourse and commonsense constraints, to promote the learning of consistent and faithful visual narrative generation and its evaluation.
+<!-- The <b>commonsense constraints</b> consist of links that ground the visual entities (extracted from image captions) to their associated textual narrative entities, as labeled by the phrases paired with the same color. The <b>discourse constraints</b> include scene-specific narrative features that trace the dynamics of basic narrative elements, i.e., characters, time and location, and global narrative features that describe static character attributes and image appearance style. -->
 
 ---
 

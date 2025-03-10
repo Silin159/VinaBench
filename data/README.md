@@ -1,7 +1,7 @@
 # VinaBench Data
 
 <div align="center">
-<img src="../figs/construction.png" width="60%" alt="construction"/>
+<img src="../figs/construction.png" width="100%" alt="construction"/>
 </div>
 
 We use hybrid VLMs and LLMs to annotate the discourse features, image captions and commonsense links underlying visual-textual narrative pairs.

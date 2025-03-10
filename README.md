@@ -43,13 +43,13 @@ VinaBench environments are developed based on Ubuntu 22.04, CUDA 12.1, Python 3.
 bash setup_baseline.sh
 
 # for Mantis-Idefics2
-bash setip_mantis.sh
+bash setup_mantis.sh
 
 # for Llama-3.1-70B-Instruct
-bash setip_llama.sh
+bash setup_llama.sh
 
 # for Llama-OneVision-72B
-bash setip_llava_onev.sh
+bash setup_llava_onev.sh
 
 # for MiniCPM-V-2.6
 bash setup_minicpm.sh

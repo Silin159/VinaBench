@@ -13,10 +13,7 @@
 
 [![Project Page](https://img.shields.io/badge/VinaBench-Website-2D89EF?style=flat-square&logo=internet-explorer)](https://silin159.github.io/Vina-Bench/)
 [![ArXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-B31B1B.svg?logo=arxiv&logoColor=white)]()
-<!---
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue)]()
--->
-
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue)](https://huggingface.co/datasets/Silin1590/VinaBench)
 </div>
 
 ## Abstract

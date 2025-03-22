@@ -69,3 +69,13 @@ We have tested three baseline models on VinaBench:
 
 ## VinaBench Evaluation
 Please follow `evaluation/README.md` to perform VinaBench evaluation.
+
+## Citation
+```bibtex
+@inproceedings{gao2025vinabench,
+          title={VinaBench: Benchmark for Faithful and Consistent Visual Narratives},
+          author={Gao, Silin and Mathew, Sheryl and Mi, Li and Mamooler, Sepideh and Zhao, Mengjie and Wakaki, Hiromi and Mitsufuji, Yuki and Montariol, Syrielle and Bosselut, Antoine},
+          booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+          year={2025}
+        }
+```
